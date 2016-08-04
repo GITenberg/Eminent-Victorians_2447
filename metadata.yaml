@@ -1,0 +1,44 @@
+_repo: Eminent-Victorians_2447
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Strachey, Lytton
+    alias: Strachey, Giles Lytton
+    birthdate: 1880
+    deathdate: 1932
+    gutenberg_agent_id: '576'
+    url: http://www.gutenberg.org/2009/agents/576
+    wikipedia: http://en.wikipedia.org/wiki/Lytton_Strachey
+description: "Eminent Victorians is a book by Lytton Strachey (one of the older members\
+  \ of the Bloomsbury Group), first published in 1918 and consisting of biographies\
+  \ of four leading figures from the Victorian era. Its fame rests on the irreverence\
+  \ and wit Strachey brought to bear on three men and a woman who had till then been\
+  \ regarded as heroes and heroine. They were:\nCardinal Manning\nFlorence Nightingale\n\
+  Thomas Arnold\nGeneral Gordon\nThe book made Strachey's name and placed him firmly\
+  \ in the top rank of biographers.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Biographies
+gutenberg_issued: '2000-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2447'
+  wikidata: Q5372505
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain -- Biography'
+- !lcsh 'Great Britain -- History -- Victoria, 1837-1901 -- Biography'
+- !lcsh 'Manning, Henry Edward, 1808-1892'
+- !lcsh 'Nightingale, Florence, 1820-1910'
+- !lcsh 'Arnold, Thomas, 1795-1842'
+- !lcsh 'Gordon, Charles George, 1833-1885'
+- GITenberg
+tableOfContents: Cardinal Manning -- Florence Nightingale -- Dr. Arnold -- The end
+  of General Gordon
+title: Eminent Victorians
+url: http://www.gutenberg.org/ebooks/2447
+wikipedia:
+- https://en.wikisource.org/wiki/Eminent_Victorians
+- https://en.wikipedia.org/wiki/Eminent_Victorians
