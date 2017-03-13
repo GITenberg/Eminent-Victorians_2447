@@ -1,5 +1,8 @@
 _repo: Eminent-Victorians_2447
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Strachey, Lytton
@@ -16,6 +19,8 @@ description: "Eminent Victorians is a book by Lytton Strachey (one of the older 
   \ regarded as heroes and heroine. They were:\nCardinal Manning\nFlorence Nightingale\n\
   Thomas Arnold\nGeneral Gordon\nThe book made Strachey's name and placed him firmly\
   \ in the top rank of biographers.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2447#Eminent-Victorians
 gutenberg_bookshelf: Biographies
 gutenberg_issued: '2000-12-01'
 gutenberg_type: Text
